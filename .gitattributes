@@ -1,0 +1,2 @@
+# Preserve pinned source text, hashes and embedded licenses across checkouts.
+data/sources/*.txt -text -whitespace

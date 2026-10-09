@@ -1,0 +1,71 @@
+[
+  {
+    "id": "franklin",
+    "gutenbergId": 148,
+    "upstream": "https://www.gutenberg.org/ebooks/148",
+    "retrievedFrom": "https://raw.githubusercontent.com/GITenberg/The-Autobiography-of-Benjamin-Franklin_148/6a006405564a4927409f7a04ccae741e51e9ef70/148.txt",
+    "commit": "6a006405564a4927409f7a04ccae741e51e9ef70",
+    "rawSha256": "683973e0555f19cb9cf41da3dedbb675f09320bc484c1a28836495b2e785cca9",
+    "textSha256": "ba7b6fa21c3da482c895c018ba32b434720b44e02c2c1ee7c63772184a1d453e",
+    "normalization": "Decoded source; CRLF converted to LF. No other text changes.",
+    "verifiedAt": "2026-10-09",
+    "verification": "Immutable GITenberg mirror; embedded Gutenberg edition and full license inspected. Official Gutenberg site currently blocked by network policy.",
+    "territory": "US",
+    "uses": {
+      "display": true,
+      "summaries": true,
+      "adaptation": true,
+      "crossBook": true,
+      "visuals": true,
+      "audio": false,
+      "caching": true,
+      "modelProcessing": true
+    }
+  },
+  {
+    "id": "carnegie",
+    "gutenbergId": 17976,
+    "upstream": "https://www.gutenberg.org/ebooks/17976",
+    "retrievedFrom": "https://raw.githubusercontent.com/GITenberg/Autobiography-of-Andrew-Carnegie_17976/fbd0972074221e108d154fbdbb064e94abbd23b7/17976.txt",
+    "commit": "fbd0972074221e108d154fbdbb064e94abbd23b7",
+    "rawSha256": "aeb1854e1de25efa655be10676939b4bb6695d9ae1543f82608f676cfdb0a641",
+    "textSha256": "1eb4d353a2a555a11778639e875dba3e46367002a38ddca397c711b93cccaf02",
+    "normalization": "Decoded source; CRLF converted to LF. No other text changes.",
+    "verifiedAt": "2026-10-09",
+    "verification": "Immutable GITenberg mirror; embedded Gutenberg edition and full license inspected. Official Gutenberg site currently blocked by network policy.",
+    "territory": "US",
+    "uses": {
+      "display": true,
+      "summaries": true,
+      "adaptation": true,
+      "crossBook": true,
+      "visuals": true,
+      "audio": false,
+      "caching": true,
+      "modelProcessing": true
+    }
+  },
+  {
+    "id": "napoleon",
+    "gutenbergId": 3567,
+    "upstream": "https://www.gutenberg.org/ebooks/3567",
+    "retrievedFrom": "https://raw.githubusercontent.com/GITenberg/Memoirs-of-Napoleon-Bonaparte---Complete_3567/3b7a5b745de64123a29f855704be4abe2e55ea64/3567.txt",
+    "commit": "3b7a5b745de64123a29f855704be4abe2e55ea64",
+    "rawSha256": "a449aa8064ca55eec138afbdd59644306b479b0368b229930286f323fa9ee505",
+    "textSha256": "de684f3b0d3b4310d52844571015aab95f328c1fcd9909f931232131b40d15ed",
+    "normalization": "Decoded source; CRLF converted to LF. No other text changes.",
+    "verifiedAt": "2026-10-09",
+    "verification": "Immutable GITenberg mirror; embedded Gutenberg edition and full license inspected. Official Gutenberg site currently blocked by network policy.",
+    "territory": "US",
+    "uses": {
+      "display": true,
+      "summaries": true,
+      "adaptation": true,
+      "crossBook": true,
+      "visuals": true,
+      "audio": false,
+      "caching": true,
+      "modelProcessing": true
+    }
+  }
+]

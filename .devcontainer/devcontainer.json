@@ -1,0 +1,14 @@
+{
+  "name": "Reading Studio",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24-bookworm",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Reading Studio",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "bash scripts/install.sh",
+  "postStartCommand": "bash .devcontainer/start.sh",
+  "remoteUser": "node"
+}
